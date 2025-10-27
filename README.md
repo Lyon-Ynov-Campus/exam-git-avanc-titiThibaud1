@@ -15,3 +15,9 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
+
+
+Exo 6 :
+La différence entre le git reset et le git revert:
+- Le git reset annule le commit ciblé et reviens au commit d'avant
+- Le git revert crée un commit d'annulation et reviens a la version du commit d'avant
